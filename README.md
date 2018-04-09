@@ -1,4 +1,4 @@
-# ozariasValidation-v1.1
+# maskoz-v1.0
 
 jQuery.maskoz v1.0
 
